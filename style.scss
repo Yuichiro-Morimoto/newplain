@@ -57,14 +57,14 @@ body{
 #menu a{
 	color:#999;
 	text-decoration:none;
+}
 
-	&:selected{
+#menu a:selected{
 	color:#fff;
-	}
+}
 
-	&:hover{
+#menu a:hover{
 	color:#fff;
-	}
 }
 
 
