@@ -59,6 +59,10 @@ body{
 	text-decoration:none;
 }
 
+#menu a:hover{
+	color:#ffffff;
+}
+
 #menu a.selected{
 	color:#fff;
 }
