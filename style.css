@@ -59,14 +59,13 @@ body{
 	text-decoration:none;
 }
 
-#menu a:hover{
+#work:hover{
 	color:#fff;
 }
 
 #menu a.selected{
-	color:#fff;
+	color:#ffffff;
 }
-
 
 
 #twitter:hover{
