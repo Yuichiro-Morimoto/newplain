@@ -2,11 +2,6 @@ function setup() {
   createCanvas(1080, 720);
 }
 
-function getSize(){
-canvas.width = wrapper.offsetWidth;
-canvas.height =  wrapper.offsetHeight;
-}
-
 function draw() {
   if (mouseIsPressed) {
     fill(0);
